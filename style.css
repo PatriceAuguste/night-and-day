@@ -1,0 +1,24 @@
+#orb, #orb1{
+  width: 400px;
+  height: 400px;
+  border-radius: 100%;
+  margin:100px auto 0 auto;
+}
+
+.sun{
+  background-color: #FFDD00 !important;
+  border: 10px solid #F1C40F;
+}
+
+.moon{
+  background-color: #BDC3C7;
+  border: 10px solid #EAEFF2;
+}
+
+.daysky{
+  background-color: #EFF9FB;
+}
+
+.nightsky{
+  background-color: #EFF0FB;
+}
